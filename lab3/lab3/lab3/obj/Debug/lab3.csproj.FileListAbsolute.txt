@@ -1,0 +1,7 @@
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab3\lab3\lab3\bin\Debug\lab3.exe
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab3\lab3\lab3\bin\Debug\lab3.pdb
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab3\lab3\lab3\obj\Debug\lab3.exe
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab3\lab3\lab3\obj\Debug\lab3.pdb

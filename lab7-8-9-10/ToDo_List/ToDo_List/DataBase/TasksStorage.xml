@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Title>1</Title>
+    <MainInfo>dfddxfxdffxd</MainInfo>
+    <StartDate>05.02.2020</StartDate>
+    <Priority>2</Priority>
+    <Category>xcfxf</Category>
+    <Status>3</Status>
+  </Task>
+  <Task>
+    <Title>о</Title>
+    <MainInfo>qwqw</MainInfo>
+    <StartDate>27.02.2020</StartDate>
+    <Priority>2</Priority>
+    <Category>wq</Category>
+    <Status>2</Status>
+  </Task>
+  <Task>
+    <Title>ьол</Title>
+    <MainInfo>бьтл</MainInfo>
+    <StartDate>13.02.2020</StartDate>
+    <Priority>1</Priority>
+    <Category>ыфф</Category>
+    <Status>3</Status>
+  </Task>
+  <Task>
+    <Title>a</Title>
+    <MainInfo>ФЫВЫm,nm</MainInfo>
+    <StartDate>11.02.2020</StartDate>
+    <Priority>1</Priority>
+    <Category>ФЫ</Category>
+    <Status>3</Status>
+  </Task>
+</ArrayOfTask>

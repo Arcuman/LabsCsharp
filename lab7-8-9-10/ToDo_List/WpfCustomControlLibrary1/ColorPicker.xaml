@@ -1,0 +1,50 @@
+<UserControl x:Class="WpfCustomControlLibrary1.ControlLibrary1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfCustomControlLibrary1"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="193*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Rectangle VerticalAlignment="Top" Height="39px" Width="45px" >
+            <Rectangle.Fill>
+                <SolidColorBrush Color="{Binding Path=Color, RelativeSource={RelativeSource FindAncestor,AncestorType={x:Type UserControl}}}"></SolidColorBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <StackPanel Grid.Column="1" Margin="0,0,-0.4,0">
+            <TextBlock x:Name="UserName" TextWrapping="Wrap" Text="UserControler" FontSize="18" Height="25"/>
+            <TextBlock x:Name="UserName1" TextWrapping="Wrap" Text="from Custom Control Libriry" Height="25"/>
+        </StackPanel>
+        
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Slider Name="sliderRed" Minimum="0" Maximum="255"
+             Value="{Binding Path=Red, RelativeSource={RelativeSource FindAncestor,AncestorType={x:Type UserControl}}}">
+        </Slider>
+        <Slider Grid.Row="1" Name="sliderGreen" Minimum="0" Maximum="255"
+   Value="{Binding Path=Green, RelativeSource={RelativeSource FindAncestor,AncestorType={x:Type UserControl}}}">
+        </Slider>
+        <Slider Grid.Row="2" Name="sliderBlue" Minimum="0" Maximum="255"
+   Value="{Binding Path=Blue, RelativeSource={RelativeSource FindAncestor,AncestorType={x:Type UserControl}}}">
+        </Slider>
+        </Grid>
+       
+    </Grid>
+</UserControl>

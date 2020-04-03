@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<ArrayOfDiscipline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Discipline>
+    <Course>1</Course>
+    <specialization>
+      <POIT>true</POIT>
+      <POIBMS>false</POIBMS>
+      <ISIT>false</ISIT>
+      <DEVI>true</DEVI>
+    </specialization>
+    <LecturesCount>15</LecturesCount>
+    <LabsCount>30</LabsCount>
+    <pass>Exam</pass>
+    <lector>
+      <SNP>Ловенецкая Е.И.</SNP>
+      <Pulpit>Высшей математики</Pulpit>
+      <MainWorkPlace>210-4</MainWorkPlace>
+    </lector>
+    <bookList>
+      <Book>
+        <Author>Ловенецкая Е.В.</Author>
+        <Name>Высшая математика</Name>
+        <CreationDate>2008-05-01T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Асмыкович А.А.</Author>
+        <Name>Математика это просто</Name>
+        <CreationDate>2007-03-04T00:00:00+02:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.И. Асмыкович А.А</Author>
+        <Name>Базовый курс высшей математики</Name>
+        <CreationDate>2008-07-15T00:00:00+03:00</CreationDate>
+      </Book>
+    </bookList>
+    <Name>Высшая математика3</Name>
+    <Semestr>1</Semestr>
+  </Discipline>
+  <Discipline>
+    <Course>1</Course>
+    <specialization>
+      <POIT>true</POIT>
+      <POIBMS>false</POIBMS>
+      <ISIT>false</ISIT>
+      <DEVI>true</DEVI>
+    </specialization>
+    <LecturesCount>20</LecturesCount>
+    <LabsCount>30</LabsCount>
+    <pass>Exam</pass>
+    <lector>
+      <SNP>Ловенецкая Е.И.</SNP>
+      <Pulpit>Высшей математики</Pulpit>
+      <MainWorkPlace>210-4</MainWorkPlace>
+    </lector>
+    <bookList>
+      <Book>
+        <Author>Ловенецкая Е.В.</Author>
+        <Name>Высшая математика</Name>
+        <CreationDate>2008-05-01T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Асмыкович А.А.</Author>
+        <Name>Математика это просто</Name>
+        <CreationDate>2007-03-04T00:00:00+02:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.И. Асмыкович А.А</Author>
+        <Name>Базовый курс высшей математики</Name>
+        <CreationDate>2008-07-15T00:00:00+03:00</CreationDate>
+      </Book>
+    </bookList>
+    <Name>Высшая математика1</Name>
+    <Semestr>1</Semestr>
+  </Discipline>
+  <Discipline>
+    <Course>4</Course>
+    <specialization>
+      <POIT>true</POIT>
+      <POIBMS>false</POIBMS>
+      <ISIT>false</ISIT>
+      <DEVI>true</DEVI>
+    </specialization>
+    <LecturesCount>20</LecturesCount>
+    <LabsCount>30</LabsCount>
+    <pass>Exam</pass>
+    <lector>
+      <SNP>Ловенецкая Е.И.</SNP>
+      <Pulpit>Высшей математики</Pulpit>
+      <MainWorkPlace>210-4</MainWorkPlace>
+    </lector>
+    <bookList>
+      <Book>
+        <Author>Ловенецкая Е.В.</Author>
+        <Name>Высшая математика</Name>
+        <CreationDate>2008-05-01T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Асмыкович А.А.</Author>
+        <Name>Математика это просто</Name>
+        <CreationDate>2007-03-04T00:00:00+02:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.И. Асмыкович А.А</Author>
+        <Name>Базовый курс высшей математики</Name>
+        <CreationDate>2008-07-15T00:00:00+03:00</CreationDate>
+      </Book>
+    </bookList>
+    <Name>Высшая математика</Name>
+    <Semestr>2</Semestr>
+  </Discipline>
+  <Discipline>
+    <Course>1</Course>
+    <specialization>
+      <POIT>true</POIT>
+      <POIBMS>false</POIBMS>
+      <ISIT>false</ISIT>
+      <DEVI>true</DEVI>
+    </specialization>
+    <LecturesCount>25</LecturesCount>
+    <LabsCount>30</LabsCount>
+    <pass>Exam</pass>
+    <lector>
+      <SNP>Ловенецкая Е.И.</SNP>
+      <Pulpit>Высшей математики</Pulpit>
+      <MainWorkPlace>210-4</MainWorkPlace>
+    </lector>
+    <bookList>
+      <Book>
+        <Author>Ловенецкая Е.В.</Author>
+        <Name>Высшая математика</Name>
+        <CreationDate>2008-05-01T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Асмыкович А.А.</Author>
+        <Name>Математика это просто</Name>
+        <CreationDate>2007-03-04T00:00:00+02:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.И. Асмыкович А.А</Author>
+        <Name>Базовый курс высшей математики</Name>
+        <CreationDate>2008-07-15T00:00:00+03:00</CreationDate>
+      </Book>
+    </bookList>
+    <Name>Высшая математика2</Name>
+    <Semestr>1</Semestr>
+  </Discipline>
+  <Discipline>
+    <Course>1</Course>
+    <specialization>
+      <POIT>true</POIT>
+      <POIBMS>false</POIBMS>
+      <ISIT>false</ISIT>
+      <DEVI>true</DEVI>
+    </specialization>
+    <LecturesCount>16</LecturesCount>
+    <LabsCount>30</LabsCount>
+    <pass>Test</pass>
+    <lector>
+      <SNP>Ловенецкая Е.И.</SNP>
+      <Pulpit>Высшей математики</Pulpit>
+      <MainWorkPlace>210-4</MainWorkPlace>
+    </lector>
+    <bookList>
+      <Book>
+        <Author>Ловенецкая Е.В.</Author>
+        <Name>Высшая математика</Name>
+        <CreationDate>2008-05-01T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Асмыкович А.А.</Author>
+        <Name>Математика это просто</Name>
+        <CreationDate>2007-03-04T00:00:00+02:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.И. Асмыкович А.А</Author>
+        <Name>Базовый курс высшей математики</Name>
+        <CreationDate>2008-07-15T00:00:00+03:00</CreationDate>
+      </Book>
+    </bookList>
+    <Name>Высшая математика4</Name>
+    <Semestr>1</Semestr>
+  </Discipline>
+  <Discipline>
+    <Course>1</Course>
+    <specialization>
+      <POIT>true</POIT>
+      <POIBMS>false</POIBMS>
+      <ISIT>false</ISIT>
+      <DEVI>true</DEVI>
+    </specialization>
+    <LecturesCount>27</LecturesCount>
+    <LabsCount>30</LabsCount>
+    <pass>Test</pass>
+    <lector>
+      <SNP>Ловенецкая Е.И.</SNP>
+      <Pulpit>Высшей математики</Pulpit>
+      <MainWorkPlace>210-4</MainWorkPlace>
+    </lector>
+    <bookList>
+      <Book>
+        <Author>Ловенецкая Е.В.</Author>
+        <Name>Высшая математика</Name>
+        <CreationDate>2008-05-01T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Асмыкович А.А.</Author>
+        <Name>Математика это просто</Name>
+        <CreationDate>2007-03-04T00:00:00+02:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.И. Асмыкович А.А</Author>
+        <Name>Базовый курс высшей математики</Name>
+        <CreationDate>2008-07-15T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.В.</Author>
+        <Name>Высшая математика</Name>
+        <CreationDate>2008-05-01T00:00:00+03:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Асмыкович А.А.</Author>
+        <Name>Математика это просто</Name>
+        <CreationDate>2007-03-04T00:00:00+02:00</CreationDate>
+      </Book>
+      <Book>
+        <Author>Ловенецкая Е.И. Асмыкович А.А</Author>
+        <Name>Базовый курс высшей математики</Name>
+        <CreationDate>2008-07-15T00:00:00+03:00</CreationDate>
+      </Book>
+    </bookList>
+    <Name>Высшая математика5</Name>
+    <Semestr>1</Semestr>
+  </Discipline>
+</ArrayOfDiscipline>
