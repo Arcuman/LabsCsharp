@@ -41,6 +41,10 @@ namespace WpfCustomControlLibrary1
 
         static ControlLibrary1()
         {
+            var meta = new FrameworkPropertyMetadata(new PropertyChangedCallback(OnColorRGBChanged))
+            {
+                CoerceValueCallback = new CoerceValueCallback(CorrectValue)
+            };
             // Регистрация свойств зависимости
             ColorProperty = DependencyProperty.Register("Color", typeof(Color), typeof(ControlLibrary1),
                 new FrameworkPropertyMetadata(Colors.Black, new PropertyChangedCallback(OnColorChanged)));
@@ -49,7 +53,7 @@ namespace WpfCustomControlLibrary1
             GreenProperty = DependencyProperty.Register("Green", typeof(byte), typeof(ControlLibrary1),
                 new FrameworkPropertyMetadata(new PropertyChangedCallback(OnColorRGBChanged)));
             BlueProperty = DependencyProperty.Register("Blue", typeof(byte), typeof(ControlLibrary1),
-                 new FrameworkPropertyMetadata(new PropertyChangedCallback(OnColorRGBChanged)));
+                meta, new ValidateValueCallback(ValidateValue));
             ColorChangedEvent = EventManager.RegisterRoutedEvent("ColorChanged", RoutingStrategy.Bubble,
         typeof(RoutedPropertyChangedEventHandler<Color>), typeof(ControlLibrary1));
         }
@@ -102,6 +106,21 @@ namespace WpfCustomControlLibrary1
         {
             add { this.AddHandler(routedEvent: ColorChangedEvent, value); }
             remove { this.RemoveHandler(ColorChangedEvent, value); }
+        }
+
+        private static bool ValidateValue(object value)
+        {
+            byte currentValue = (byte)value;
+            if (currentValue >= 0 && currentValue <=200) // если текущее значение от нуля и выше
+                return true;
+            return false;
+        }
+        private static object CorrectValue(DependencyObject d, object baseValue)
+        {
+            byte currentValue = (byte)baseValue;
+            if (currentValue > 100)  // если больше 1000, возвращаем 1000
+                return 100;
+            return currentValue; // иначе возвращаем текущее значение
         }
     }
 }

@@ -1,0 +1,42 @@
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\MainWindow.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\App.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO_MarkupCompile.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO_MarkupCompile.lref
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\bin\Debug\ADO.exe.config
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\bin\Debug\ADO.exe
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\bin\Debug\ADO.pdb
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\MainWindow.baml
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.g.resources
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.exe
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.pdb
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\InfoFrame.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\InfoFrame.baml
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\AddFrame.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\AddFrame.baml
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\DeleteFrame.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\DeleteFrame.baml
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\bin\Debug\ADO.exe.config
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\bin\Debug\ADO.exe
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\bin\Debug\ADO.pdb
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\MainWindow.g.cs
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\AddFrame.g.cs
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\DeleteFrame.g.cs
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\InfoFrame.g.cs
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\App.g.cs
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO_MarkupCompile.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO_MarkupCompile.lref
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\MainWindow.baml
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\AddFrame.baml
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\DeleteFrame.baml
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\Pages\InfoFrame.baml
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.g.resources
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.exe
+D:\BSTU 2 course\2sem\OOP\labs\lab11\ADO\ADO\obj\Debug\ADO.pdb

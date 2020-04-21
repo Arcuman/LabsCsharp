@@ -1,0 +1,107 @@
+﻿<Page x:Class="ADO.AddFrame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ADO"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddFrame">
+
+    <Grid Background="White">
+        <StackPanel>
+            <RadioButton IsChecked="True" Click="RadioButton_Click" Name="Discipline"  Margin="25 15"  VerticalAlignment="Center">
+                <RadioButton.Content>
+                    <TextBlock FontSize="14" Text="Discipline"/>
+                </RadioButton.Content>
+            </RadioButton>
+            <StackPanel x:Name="DisciplinePanel1" Orientation="Horizontal">
+                <StackPanel Margin="25 5">
+                    <TextBlock FontSize="14" Text="Discipline Name"/>
+                    <TextBox x:Name="DisciplineName" Height="23" Margin="0 5 0 0" Width="150" TextWrapping="Wrap" />
+                </StackPanel>
+                <StackPanel Margin="25 5">
+                    <TextBlock FontSize="14" Text="Term"/>
+                    <ComboBox Name="Term" Margin="0 5 0 0" Width="120">
+                        <ComboBoxItem Content="1"/>
+                        <ComboBoxItem Content="2"/>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Margin="45 5">
+                    <TextBlock FontSize="14" Text="Cource"/>
+                    <ComboBox Name="Course" Margin="0 5 0 0" Width="120">
+                        <ComboBoxItem Content="1"/>
+                        <ComboBoxItem Content="2"/>
+                        <ComboBoxItem Content="3"/>
+                        <ComboBoxItem Content="4"/>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Margin="25 5">
+                    <TextBlock FontSize="14" Text="Specialization"/>
+                    <ComboBox  Margin="0 5 0 0" x:Name="Specialization" Width="120">
+                        <ComboBoxItem Content="POIT"/>
+                        <ComboBoxItem Content="POIBMS"/>
+                        <ComboBoxItem Content="ISIT"/>
+                        <ComboBoxItem Content="DEVI"/>
+                    </ComboBox>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Name="DisciplinePanel2" Orientation="Horizontal">
+                <StackPanel Margin="25 8">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock FontSize="14" Text="Count of lectures"/>
+                        <TextBlock Margin="15 0" FontSize="14" Text="{Binding ElementName=LecturesCount, Path=Value}"/>
+                    </StackPanel>
+                    <Slider TickPlacement="BottomRight" TickFrequency="1" 
+                            IsSnapToTickEnabled="True" x:Name="LecturesCount"  Margin="0 15 0 0" Value="0" Minimum="0" Maximum="40"  Width="150"/>
+                </StackPanel>
+                <StackPanel Margin="25 8">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock FontSize="14" Text="Count of labs"/>
+                        <TextBlock Margin="15 0" FontSize="14" Text="{Binding ElementName=LabsCount, Path=Value}"/>
+                    </StackPanel>
+                    <Slider TickPlacement="BottomRight" TickFrequency="1" Maximum="40" IsSnapToTickEnabled="True"  x:Name="LabsCount"  Margin="0 15 0 0"  Width="150"/>
+                </StackPanel>
+                <StackPanel Margin="15 5">
+                    <TextBlock FontSize="14" Text="Control Type"/>
+                    <ComboBox Name="ControlType" Margin="0 12 0 0" Width="120">
+                        <ComboBoxItem Content="Зачет"/>
+                        <ComboBoxItem Content="Экзамен"/>
+                    </ComboBox>
+                </StackPanel>
+            </StackPanel>
+            <RadioButton Click="RadioButton_Click" Name="Lector" Margin="25 15"  VerticalAlignment="Center">
+                <RadioButton.Content>
+                    <TextBlock FontSize="14" Text="Lector"/>
+                </RadioButton.Content>
+            </RadioButton>
+            <StackPanel Visibility="Collapsed" Name="LectorPanel1" Orientation="Horizontal">
+                <StackPanel Margin="25 5">
+                    <TextBlock FontSize="14" Text="SNP"/>
+                    <TextBox Name="SNP" Height="23" Margin="0 5 0 0" Width="150" TextWrapping="Wrap" />
+                </StackPanel>
+                <StackPanel Margin="25 5">
+                    <TextBlock FontSize="14" Text="Pulpit"/>
+                    <TextBox x:Name="Pulpit" Height="23" Margin="0 5 0 0" Width="150" TextWrapping="Wrap" />
+                </StackPanel>
+
+            </StackPanel>
+            <StackPanel Visibility="Collapsed" Name="LectorPanel2" HorizontalAlignment="Stretch" Orientation="Horizontal">
+                <StackPanel  Margin="25 5">
+                    <TextBlock FontSize="14" Text="Auditory"/>
+                    <TextBox x:Name="Auditory" Height="23" Margin="0 5 0 0" Width="150" TextWrapping="Wrap" />
+                </StackPanel>
+                <StackPanel Margin="25 5">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock FontSize="14" Text="Photo"/>
+                        <Button Click="Set_Image" Width="40" Margin="15 0" Content="Select"/>
+                    </StackPanel>
+                    <Image x:Name="Photo" AllowDrop="True" Width="100" Height="100"/>
+                </StackPanel>
+            </StackPanel>
+            <Button Click="AddButton_Click" Content="Add" Margin="0 0" Height="30" VerticalAlignment="Top" Width="120"/>
+
+        </StackPanel>
+    </Grid>
+</Page>

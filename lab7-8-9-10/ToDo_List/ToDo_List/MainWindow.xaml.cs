@@ -41,14 +41,14 @@ namespace ToDo_List
             // определяем путь к файлу ресурсов
             var uri = new Uri("Styles\\" + style + ".xaml", UriKind.Relative);
             // загружаем словарь ресурсов
-            ResourceDictionary resourceDict = Application.LoadComponent(uri) as ResourceDictionary;
+            var resourceDict = Application.LoadComponent(uri) as ResourceDictionary;
             // очищаем коллекцию ресурсов приложения
             Application.Current.Resources.Clear();
             // добавляем загруженный словарь ресурсов
             Application.Current.Resources.MergedDictionaries.Add(resourceDict);
         }
 
-        public static RoutedCommand GreetUserCommand = new RoutedUICommand("Howdy!", "GreetUser", typeof(MainWindow));
+        public static RoutedCommand GreetUserCommand = new RoutedUICommand("Here", "GreetUser", typeof(MainWindow));
 
         private void GreetUser_CanExecute(object sender, CanExecuteRoutedEventArgs e)
         {
@@ -60,7 +60,7 @@ namespace ToDo_List
 
         private void GreetUser_Executed(object sender, ExecutedRoutedEventArgs e)
         {
-            MessageBox.Show("Howdy howdy I'm a cowboy");
+            MessageBox.Show("Im RoutedUICommand");
         }
 
         private void txtSomeText_PreviewExecuted(object sender, ExecutedRoutedEventArgs e)
