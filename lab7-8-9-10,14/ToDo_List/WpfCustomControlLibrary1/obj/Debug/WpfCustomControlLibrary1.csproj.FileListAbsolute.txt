@@ -1,0 +1,45 @@
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csprojAssemblyReference.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.lref
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.g.resources
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.GenerateResource.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\ColorPicker.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8\ToDo_List\WpfCustomControlLibrary1\obj\Debug\ColorPicker.baml
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csprojAssemblyReference.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\ColorPicker.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.lref
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\ColorPicker.baml
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.g.resources
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.GenerateResource.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
+D:\БГТУ 2 курс\2 сем\OOP\labs\lab7-8-9-10\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csprojAssemblyReference.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\ColorPicker.g.cs
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.lref
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\ColorPicker.baml
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.g.resources
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.GenerateResource.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
+D:\BSTU 2 course\2sem\OOP\labs\lab7-8-9-10,14\ToDo_List\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb

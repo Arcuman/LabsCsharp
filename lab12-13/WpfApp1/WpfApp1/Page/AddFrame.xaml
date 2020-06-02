@@ -1,0 +1,35 @@
+﻿<Page x:Class="WpfApp1.AddFrame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddFrame">
+
+    <Grid Background="White">
+        <Label Content="Customer" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Height="25" Margin="80,10,0,0" />
+        <Label Content="Name" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Height="25" Margin="0,48,0,0" />
+        <TextBox Name="Name" HorizontalAlignment="Left" Height="26" Margin="80,48,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="121"/>
+        <Label Content="Age" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Height="25" Margin="0,89,0,0" />
+        <TextBox Name="Age" HorizontalAlignment="Left" Height="26" Margin="80,89,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="121"/>
+        <Label Content="Email" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Height="25" Margin="0,133,0,0" />
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Height="26" Margin="80,132,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="121"/>
+        <Button x:Name="SaveCustomer" Click="SaveCustomer_Click" HorizontalAlignment="Left" VerticalAlignment="Top"  Height="30"    Content="Save"  Width="106" Margin="80,187,0,0" />
+
+        <Label Content="Orders" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Height="25" Margin="430,10,0,0" />
+        <Label Content="Product" HorizontalAlignment="Left" VerticalAlignment="Top" Width="65" Height="25" Margin="342,49,0,0" />
+        <TextBox Name="Product" HorizontalAlignment="Left" Height="26" Margin="430,49,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="121"/>
+        <Label Content="Description" HorizontalAlignment="Left" VerticalAlignment="Top" Width="83" Height="25" Margin="342,89,0,0" />
+        <TextBox Name="Description" HorizontalAlignment="Left" Height="26" Margin="430,89,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="121"/>
+        <Label Content="Quantity" HorizontalAlignment="Left" VerticalAlignment="Top" Width="83" Height="25" Margin="342,132,0,0" />
+        <TextBox Name="Quantity" HorizontalAlignment="Left" Height="26" Margin="430,132,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="121"/>
+        <Label Content="Purchase&#xD;&#xA;Date" HorizontalAlignment="Left" Height="45" Margin="342,169,0,0" VerticalAlignment="Top" Width="70" />
+        <DatePicker Name="PurchaseDate" HorizontalAlignment="Left" Height="28" Margin="432,173,0,0" VerticalAlignment="Top" Width="121"/>
+        <Label Content="Customer&#xD;&#xA;Email" HorizontalAlignment="Left" VerticalAlignment="Top" Width="83" Height="40" Margin="342,219,0,0" />
+        <TextBox Name="CustomerEmail" HorizontalAlignment="Left" Height="26" Margin="430,227,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="121"/>
+        <Button x:Name="SaveOrders" Click="SaveOrders_Copy_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30"    Content="Save"  Width="106" Margin="409,277,0,0" />
+
+    </Grid>
+</Page>
